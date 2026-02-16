@@ -15,3 +15,4 @@
 |main.py|評価フローを回すメイン関数|
 |utils.py|ユーティリティ関数群|
 |evaluation.sh|基本引数を設定して評価を始めるスクリプト|
+|requirements.txt|実行前にインストールする|
